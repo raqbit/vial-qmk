@@ -6,6 +6,9 @@
 // Myriad boilerplate
 #define MYRIAD_ENABLE
 
+// For OLED layer state
+#define SPLIT_LAYER_STATE_ENABLE
+
 /// Vial-specific settings
 
 // Increase the EEPROM size for layout options
