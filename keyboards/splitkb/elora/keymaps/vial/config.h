@@ -8,6 +8,7 @@
 
 // For OLED layer state
 #define SPLIT_LAYER_STATE_ENABLE
+#define SPLIT_ACTIVITY_ENABLE
 
 /// Vial-specific settings
 
@@ -16,6 +17,7 @@
 
 #define RGB_MATRIX_FRAMEBUFFER_EFFECTS
 #define RGB_MATRIX_KEYPRESSES
+#define RGB_MATRIX_SLEEP
 
 // Default is 2, needed because keymap has 7 layers
 #define DYNAMIC_KEYMAP_LAYER_COUNT 8
